@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    line-height: 10px;
+}
+
+nav ul li:hover{
+    background-color: #316DC3 !important;
+border-radius: 30px;
+}
+nav .nav-item{
+    margin-right: 5px;
+    
+}
+
+nav .active{
+    margin-left: 20px;
+    background-color: #316DC3 !important;
+    border-radius: 30px; 
+    color: cornsilk;
+}
+.number{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.navigation{
+    color: black;
+}
+.nav-link{
+    padding: 10px;
+    margin-right: 5px;
+}
+.blue{
+    background-color: #316DC3 !important;
+}
+
+.green{color: rgb(0, 255, 0);}
+
+button{
+    color: darkgreen;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding: 6px;
+    border:1px solid darkgreen;
+}
+.report{
+    background-color: rgba(36, 79, 242, 1);
+    color:#fff;
+}
+.contact{
+    color: #bbb;
+    font-family: sans-serif;
+    font-size: 13px;
+}
